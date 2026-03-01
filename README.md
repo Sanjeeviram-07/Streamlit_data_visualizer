@@ -1,10 +1,11 @@
-#  Smart Data Visualizer
+#  Streamlit Data Visualizer
 
 An interactive data visualization dashboard built using Streamlit that
 allows users to upload CSV datasets and generate dynamic visual insights
 instantly.
 
 🔗 **Live App:** 
+https://stream-lit-data-visualizer.streamlit.app/
 
 ------------------------------------------------------------------------
 
